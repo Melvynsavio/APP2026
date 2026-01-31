@@ -1,0 +1,97 @@
+
+GUYS CHOOSE A APP
+
+
+Desktop & General
+
+Firefox — privacy‑focused web browser. https://www.mozilla.org/firefox/
+Chromium — open‑source browser project that Chrome is built on. https://www.chromium.org/
+Thunderbird — email client from Mozilla. https://www.thunderbird.net/
+VLC — versatile media player for almost every format. https://www.videolan.org/vlc/
+MPV — minimalist, high‑quality media player. https://mpv.io/
+Office & Productivity
+
+LibreOffice — full office suite (writer, calc, impress). https://www.libreoffice.org/
+OnlyOffice (Community Edition) — document, spreadsheet, presentation editors. https://github.com/ONLYOFFICE/DocumentServer
+Joplin — notes and to‑do app with syncing. https://joplinapp.org/
+Standard Notes — encrypted note app (core OSS). https://standardnotes.org/
+Editors & IDEs
+
+Visual Studio Code (open‑source repo) — powerful code editor. https://github.com/microsoft/vscode
+VSCodium — community builds of VS Code without Microsoft telemetry. https://vscodium.com/
+Atom (archived) — hackable text editor (historical). https://github.com/atom/atom
+Eclipse — Java IDE and plugin platform. https://www.eclipse.org/ide/
+Development & DevOps
+
+Git — distributed version control system. https://git-scm.com/
+Docker (Moby project & Engine components) — container runtime (core OSS components). https://mobyproject.org/
+Podman — daemonless containers for Linux. https://podman.io/
+Kubernetes — container orchestration. https://kubernetes.io/
+Jenkins — automation server / CI. https://www.jenkins.io/
+GitLab CE — self‑hosted Git service with CI (Community Edition). https://about.gitlab.com/
+Gitea — lightweight self‑hosted Git service. https://gitea.io/
+Databases & Data
+
+PostgreSQL — advanced open‑source relational database. https://www.postgresql.org/
+MariaDB — community fork of MySQL. https://mariadb.org/
+SQLite — embedded SQL database engine. https://sqlite.org/
+Redis — in‑memory data structure store. https://redis.io/
+MongoDB (community source / SSPL licensing changes noted) — document database. https://www.mongodb.com/
+Collaboration & Communication
+
+Nextcloud — self‑hosted file sync & collaboration platform. https://nextcloud.com/
+Mattermost — self‑hosted messaging (Slack alternative). https://mattermost.com/
+Rocket.Chat — chat platform for teams. https://rocket.chat/
+Matrix / Element — decentralized chat protocol and client. https://matrix.org/ / https://element.io/
+Jitsi Meet — self‑hosted video conferencing. https://jitsi.org/jitsi-meet/
+Zulip — threaded team chat. https://zulip.com/
+Home Automation & IoT
+
+Home Assistant — home automation platform. https://www.home-assistant.io/
+OpenHAB — open smart home integration. https://www.openhab.org/
+Node‑RED — flow‑based development for IoT. https://nodered.org/
+Multimedia & Content Creation
+
+GIMP — image editor (similar to Photoshop). https://www.gimp.org/
+Inkscape — vector graphics editor (like Illustrator). https://inkscape.org/
+Krita — digital painting application. https://krita.org/
+Blender — 3D modeling, animation, VFX. https://www.blender.org/
+OBS Studio — streaming and recording software. https://obsproject.com/
+Audacity — audio editor (core project OSS; note licensing/discussion history). https://www.audacityteam.org/
+Security & Passwords
+
+KeePassXC — local password manager (community fork of KeePassXC). https://keepassxc.org/
+Bitwarden (server & clients are open core/community) — password manager you can self‑host. https://bitwarden.com/
+OpenVPN — VPN server/client software. https://openvpn.net/
+Content Management & Web Platforms
+
+WordPress — blogging/CMS platform. https://wordpress.org/
+Drupal — flexible CMS. https://www.drupal.org/
+Ghost — publishing platform (open source core). https://ghost.org/
+Magento Open Source — e‑commerce platform (community edition). https://magento.com/
+Mapping & GIS
+
+QGIS — desktop geographic information system. https://qgis.org/
+OpenStreetMap tools (e.g., iD editor, JOSM) — community map data and editors. https://www.openstreetmap.org/
+Mobile & Android
+
+F‑Droid — catalogue of FOSS Android apps (store & client). https://f-droid.org/
+K-9 Mail — open‑source Android email client. https://k9mail.app/
+NewPipe — lightweight YouTube front‑end for Android. https://newpipe.net/
+OsmAnd — maps & navigation based on OpenStreetMap. https://osmand.net/
+Server & Infra Tools
+
+Ansible — automation and configuration management. https://www.ansible.com/
+Terraform — infrastructure as code (open‑source CLI/core). https://www.terraform.io/
+Prometheus — monitoring & alerting toolkit. https://prometheus.io/
+Grafana — metrics visualization and dashboards (core OSS). https://grafana.com/
+Design & Prototyping
+
+Penpot — open‑source design & prototyping web app. https://penpot.app/
+Games & Engines
+
+Godot Engine — open‑source game engine. https://godotengine.org/
+Data Science & Notebooks
+
+Jupyter — interactive notebooks for data science. https://jupyter.org/
+RStudio (open‑source components) — IDE for R (open source edition). https://posit.co/
